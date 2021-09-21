@@ -205,7 +205,7 @@ body.block_overflow{
 		top: 30px;
 	}
 	.header__menu.active{
-		transform: translate(0,0);
+		transform: translate(0,100%);
 	}
 	.header__menu .menu__body{
 		display: block;
