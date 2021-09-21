@@ -190,7 +190,7 @@ body.block_overflow{
 		backdrop-filter: blur(5px);
 		-webkit-backdrop-filter: blur(5px);
 		top: -100%;
-		transition: all .3s ease-in-out;
+		transition: top .3s ease-in-out;
 	}
 	.header__phone{
 		text-align: center;
